@@ -44,7 +44,7 @@ body{
     justify-content: space-between;
 }
 
-.title{
-    border-bottom: 3px solid rgb(14, 167, 65);
-    display: flex;
+hr{
+    border: solid 0.5px  rgb(23, 235, 164);
+    align-items: space-evenly;
 }
